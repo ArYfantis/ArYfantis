@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aristomenis Yfantis
 - 👀 I’m interested in GRMHD, ray tracing codes  
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Bayesian methods
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at aristomenis.yfantis@ru.nl
 
